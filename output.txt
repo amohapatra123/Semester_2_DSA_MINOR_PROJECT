@@ -1,0 +1,82 @@
+ONLY ISSUING BOOK:
+Enter number of students : 
+2
+Enter student name and roll of student 1 : Anshuman 
+22
+Do you want to issue or deposit book . (ENTER 1 for issue & 2 FOR DEPOSIT) : 1
+These books are present : 
+Name of book : Harry_Potter by J.K. Rolling [QTY : 90]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 100]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+Enter the name of book and quantity : Harry_Potter
+3
+You have issued Harry_Potter
+Enter issue date (dd mm yyyy) : 22
+2
+2020
+These books are left
+Name of book : Harry_Potter by J.K. Rolling [QTY : 87]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 100]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+
+
+Enter student name and roll of student 2 : Amit 
+26
+Do you want to issue or deposit book . (ENTER 1 for issue & 2 FOR DEPOSIT) : 1
+These books are present : 
+Name of book : Harry_Potter by J.K. Rolling [QTY : 87]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 100]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+Enter the name of book and quantity : Concept_of_Physics
+4
+You have issued Concept_of_Physics
+Enter issue date (dd mm yyyy) : 22
+2
+2020
+These books are left
+Name of book : Harry_Potter by J.K. Rolling [QTY : 87]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 96]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+
+
+ISSUE AND RETURN BOOK:
+Enter number of students : 
+2
+Enter student name and roll of student 1 : Anshuman
+22
+Do you want to issue or deposit book . (ENTER 1 for issue & 2 FOR DEPOSIT) : 1
+These books are present : 
+Name of book : Harry_Potter by J.K. Rolling [QTY : 90]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 100]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+Enter the name of book and quantity : Harry_Potter
+4
+You have issued Harry_Potter
+Enter issue date (dd mm yyyy) : 22
+2
+2020
+These books are left
+Name of book : Harry_Potter by J.K. Rolling [QTY : 86]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 100]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+
+
+Enter student name and roll of student 2 : Anshuman 
+22
+Do you want to issue or deposit book . (ENTER 1 for issue & 2 FOR DEPOSIT) : 2
+Name of book : Harry_Potter by J.K. Rolling [QTY : 86]
+Name of book : Concept_of_Physics by H.C. Verma [QTY : 100]
+Name of book : Understanding_Physics by D.C Pandey [QTY : 100]
+Enter the name of book and quantity : Harry_Potter
+3
+Enter return date (dd mm yyyy) : 25
+3
+2020
+Your fine is Rs. 3
+Book [name :Harry_Potter ,Author[name :J.K. Rolling email :email gender :F] ,price: 190.0 ,qty: 89]
+
+
+
+
+
+
